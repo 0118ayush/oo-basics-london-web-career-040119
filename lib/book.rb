@@ -12,8 +12,8 @@ class Book
     @author = author 
   end 
   
-  def 
+  # def 
     
-  end 
+  # end 
   
 end 
