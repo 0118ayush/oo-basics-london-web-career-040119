@@ -1,6 +1,6 @@
 class 
   
-  def initilaize(brand)
+  def initialize(brand)
     @brand = brand
   end 
   
