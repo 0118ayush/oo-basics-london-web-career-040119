@@ -2,7 +2,7 @@ class Shoe
   
   attr_accessor :color, :size, :material, :condition
   
-  def initialize(brand)
+  def initialize(brand = "Nike")
     @brand = brand
   end 
   
@@ -13,5 +13,3 @@ class Shoe
   end 
   
 end 
-
-nike = Shoe.new("Nike")
